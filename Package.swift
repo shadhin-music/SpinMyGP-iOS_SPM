@@ -14,8 +14,14 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/SnapKit/SnapKit.git", from: "5.7.1"),
-        .package(url: "https://github.com/airbnb/lottie-ios.git", from: "4.6.1")
+        .package(
+            url: "https://github.com/SnapKit/SnapKit.git",
+            from: "5.7.1"
+        ),
+        .package(
+            url: "https://github.com/airbnb/lottie-ios.git",
+            from: "4.6.1"
+        )
     ],
     targets: [
         .binaryTarget(
@@ -30,7 +36,8 @@ let package = Package(
                 "SpinMyGPBinary",
                 .product(name: "SnapKit", package: "SnapKit"),
                 .product(name: "Lottie", package: "lottie-ios")
-            ]
+            ],
+            path: "Sources/SpinMyGP"
         )
     ]
 )
