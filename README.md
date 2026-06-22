@@ -1,10 +1,9 @@
-[![Version](https://img.shields.io/cocoapods/v/Win2GainMyGP)](https://cocoapods.org/pods/Win2GainMyGP)
-[![License](https://img.shields.io/github/license/shadhin-music/Win2GainMyGP)](https://github.com/shadhin-music/Win2GainMyGP/blob/main/LICENSE)
-[![Platforms](https://img.shields.io/badge/Platforms-iOS%2011%2B-blue.svg)](https://github.com/shadhin-music/Win2GainMyGP/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/shadhin-music/SpinMyGP-iOS_SPM)](https://github.com/shadhin-music/SpinMyGP-iOS_SPM/blob/main/LICENSE)
+[![Platforms](https://img.shields.io/badge/Platforms-iOS%2013%2B-blue.svg)](https://github.com/shadhin-music/SpinMyGP-iOS_SPM/blob/main/LICENSE)
 [![Languages](https://img.shields.io/badge/language-%20swift-FF69B4.svg?style=plastic)](#)
-[![Code-Size](https://img.shields.io/github/languages/code-size/shadhin-music/Win2GainMyGP-iOS)](#)
+[![Code-Size](https://img.shields.io/github/languages/code-size/shadhin-music/SpinMyGP-iOS_SPM)](#)
 
-# 📘 Win2GainMyGP — iOS Win-to-Gain quiz SDK
+# 📘 SpinMyGP-iOS — iOS Spin Wheel SDK
 
 ## 📄 Table of Contents
 
