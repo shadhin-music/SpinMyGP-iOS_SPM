@@ -1,0 +1,60 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.3 effective-5.10 (swiftlang-6.3.0.123.5 clang-2100.0.123.102)
+// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -O -enable-upcoming-feature DisableOutwardActorInference -enable-upcoming-feature InferSendableFromCaptures -enable-upcoming-feature GlobalActorIsolatedTypesUsability -enable-upcoming-feature MemberImportVisibility -enable-upcoming-feature InferIsolatedConformances -enable-upcoming-feature NonisolatedNonsendingByDefault -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name SpinMyGP
+// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.3
+import AVFoundation
+import Combine
+import CoreText
+import DeveloperToolsSupport
+import Foundation
+import Lottie
+import SnapKit
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public enum RewardType : Swift.String {
+  case physical
+  case internet
+  case gpPoints
+  case talktime
+  case unknown
+  case nothing
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+
+
+
+
+
+
+
+
+public enum SpinMyGPEvent {
+  case segmentTapped(index: Swift.Int, title: Swift.String)
+  case spinButtonTapped
+  case spinResult(rewardName: Swift.String, segmentId: Swift.Int)
+  case notifyMeTapped
+  case notificationEnabled
+  case soundButtonTapped
+  case viewDetailsTapped(rewardType: SpinMyGP.RewardType)
+  case dismissed
+}
+public protocol SpinMyGPDelegate : AnyObject {
+  func spinMyGP(didReceive event: SpinMyGP.SpinMyGPEvent)
+}
+@_hasMissingDesignatedInitializers final public class SpinMyGPManager {
+  public static let shared: SpinMyGP.SpinMyGPManager
+  weak final public var delegate: (any SpinMyGP.SpinMyGPDelegate)?
+  final public func start(token: Swift.String, from viewController: UIKit.UIViewController)
+  @objc deinit
+}
+extension SpinMyGP.RewardType : Swift.Equatable {}
+extension SpinMyGP.RewardType : Swift.Hashable {}
+extension SpinMyGP.RewardType : Swift.RawRepresentable {}

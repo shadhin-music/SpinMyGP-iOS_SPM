@@ -2,21 +2,21 @@
 import PackageDescription
 
 let package = Package(
-    name: "Win2GainMyGP",
+    name: "SpinMyGP",
     platforms: [
         .iOS(.v13)
     ],
     products: [
         .library(
-            name: "Win2GainMyGP",
-            targets: ["Win2GainMyGP"]
+            name: "SpinMyGP",
+            targets: ["SpinMyGP"]
         )
     ],
     targets: [
         .binaryTarget(
-            name: "Win2GainMyGP",
-            url: "https://github.com/shadhin-music/Win2GainMyGP/releases/download/1.1.9/Win2GainMyGP.xcframework.zip",
-            checksum: "7c565531d1e9abf0b6620a4ecc090971cf6433f296e0c81135b4cec75b68d8fc"
+            name: "SpinMyGP",
+            url: "https://github.com/shadhin-music/SpinMyGP-iOS_SPM/releases/download/0.0.1/SpinMyGP.xcframework.zip",
+            checksum: "37f20c1f31916506a8c8173b65a6361244de416d35d960717f59cbdd9c6e5eab"
         )
     ]
 )

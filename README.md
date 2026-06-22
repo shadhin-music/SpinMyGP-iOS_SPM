@@ -22,7 +22,7 @@
 
 ## 🚀 Overview
 
-Win2GainMyGP is a lightweight, plug-and-play Win-Game SDK designed for
+SpinMyGP is a lightweight, plug-and-play Spin Wheel SDK designed for
 seamless integration inside the MyGP ecosystem.
 
 ## ✨ Features
@@ -35,10 +35,6 @@ seamless integration inside the MyGP ecosystem.
 
 ## 📦 Installation
 
-CocoaPods
-``` ruby
-pod 'Win2GainMyGP'
-```
 Swift Package Manager
 ➤ Using Xcode
 1. Open your project in Xcode
@@ -46,7 +42,7 @@ Swift Package Manager
     File → Add Packages…
 3. Enter
 ``` ruby
-https://github.com/shadhin-music/Win2GainMyGP
+https://github.com/shadhin-music/SpinMyGP-iOS_SPM
 ```
 4. Select
 ``` ruby
@@ -57,28 +53,15 @@ Up to Next Major (e.g. 1.1.4)
 ## ⚡ Quick Start
 
 ``` swift
-collectionView.register(
-    Win2GainCollectionViewCell.self,
-    forCellWithReuseIdentifier: Win2GainCollectionViewCell.identifier
-)
+
 ```
 
 ## 🔐 Token Provider Setup
 
 ``` swift
-Win2GainTokenManager.shared.delegate = self
-Win2GainTokenManager.shared.persistsInKeychain = true
+SpinTokenManager.shared.delegate = self
 ```
 
-## 📱 Tab Bar Handling
-
-``` swift
-extension AppDelegate: Win2GainTabBarEventDelegate {
-    func win2GainScreenStatus(_ isFullScreen: Bool) {
-        tabBarController.tabBar.isHidden = isFullScreen
-    }
-}
-```
 
 ## 🧱 Requirements
 
@@ -94,9 +77,8 @@ extension AppDelegate: Win2GainTabBarEventDelegate {
 
 ## 📬 Support
 
-- Email: abir@cloud7bd.com
-- Email: mdabirhossain-dev@gmail.com
-- Phone: [+880 1521-717-367](tel:+8801521717367)
+- Email: motalab@cloud7bd.com
+- Phone: [+880 1750873525]
 
 ## 📄 License
 
