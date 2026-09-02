@@ -14,7 +14,7 @@
 		</data>
 		<key>Modules/SpinMyGP.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		JTKQ6tbgyrANTS3jnjkcvTqejCA=
+		36IFagkXB7aNCC46Epuobst3JqM=
 		</data>
 		<key>Modules/SpinMyGP.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/SpinMyGP.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zU1wCROVygJA827saUitUr9J8ZQ=
+		Ff6dxi/8OYpSAkCfgj53nrNHF5E=
 		</data>
 		<key>Modules/SpinMyGP.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		JTKQ6tbgyrANTS3jnjkcvTqejCA=
+		36IFagkXB7aNCC46Epuobst3JqM=
 		</data>
 		<key>Modules/SpinMyGP.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/SpinMyGP.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		AS3Edz/MfhrWY/KuKvIGEUIhW2U=
+		x6l1I4fGiJppzyI2JL/4T85/7Yg=
 		</data>
 		<key>Roboto-Bold.ttf</key>
 		<data>
@@ -98,7 +98,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q0Pn5pkGcj1ma7AgoMHEOwfKzl4EgnbLS1eZQkb7QLY=
+			mdPtg0G9hsc8+/OutdqaDCLng35fn76HTQ02bn6Uv0w=
 			</data>
 		</dict>
 		<key>Modules/SpinMyGP.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -126,14 +126,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1nzkmfay6Z1jSuzmZ8FIYyFycQzpMd9V4P5gN5OxRf4=
+			nPxWXF2iHx6vzjTUs5BwQwj7KaXM/ImkYDqAWZBSwCA=
 			</data>
 		</dict>
 		<key>Modules/SpinMyGP.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q0Pn5pkGcj1ma7AgoMHEOwfKzl4EgnbLS1eZQkb7QLY=
+			mdPtg0G9hsc8+/OutdqaDCLng35fn76HTQ02bn6Uv0w=
 			</data>
 		</dict>
 		<key>Modules/SpinMyGP.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -161,7 +161,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KcznC+zC4NsLSPxvnysm1HRD3FItM5sG5rvulHsHyYw=
+			r3b2LzvO7oaKUKTfg2OnJhK3pyZ0rQ5I7d83TfwLamI=
 			</data>
 		</dict>
 		<key>Roboto-Bold.ttf</key>
