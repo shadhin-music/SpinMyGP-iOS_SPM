@@ -6,51 +6,51 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		8D2LwsDXT747FZxNb4ZJjXkukYY=
+		sZY763C2SdpgEW6GXHPN+EyzxY0=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		I+xkDV4ajFpJReJlNByYAAiyRN0=
+		AJ2feN0dFat4lXUKBvu65LFaSuM=
 		</data>
 		<key>Modules/SpinMyGP.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		36IFagkXB7aNCC46Epuobst3JqM=
+		G2RZPy3yt7m434cE3nzEvlGZ9+g=
 		</data>
 		<key>Modules/SpinMyGP.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		n+2tVT4IL0wZ53BbLykyADJPqCs=
+		3DJoYizL0ulfKeS1Bqhk2bj/TxM=
 		</data>
 		<key>Modules/SpinMyGP.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		DcJieldsrRNzvOIqemvwFZgdqQo=
+		aG+GE3vGmqXxuQJH8wGP1BXY00k=
 		</data>
 		<key>Modules/SpinMyGP.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		n+2tVT4IL0wZ53BbLykyADJPqCs=
+		3DJoYizL0ulfKeS1Bqhk2bj/TxM=
 		</data>
 		<key>Modules/SpinMyGP.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Ff6dxi/8OYpSAkCfgj53nrNHF5E=
+		2MihjpxG1J7XS57enoSTrO7AcWQ=
 		</data>
 		<key>Modules/SpinMyGP.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		36IFagkXB7aNCC46Epuobst3JqM=
+		G2RZPy3yt7m434cE3nzEvlGZ9+g=
 		</data>
 		<key>Modules/SpinMyGP.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		UVZ8G5nlB+ikzpNWWxGK5pLm/qw=
+		G2Aohh93PaRyjww7ye907+rOplU=
 		</data>
 		<key>Modules/SpinMyGP.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		euTPQ8XPYkRjtbP+T29F//03ApE=
+		5u6KdK+aNMt84FDGyCfy8GL5VS0=
 		</data>
 		<key>Modules/SpinMyGP.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		UVZ8G5nlB+ikzpNWWxGK5pLm/qw=
+		G2Aohh93PaRyjww7ye907+rOplU=
 		</data>
 		<key>Modules/SpinMyGP.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		x6l1I4fGiJppzyI2JL/4T85/7Yg=
+		vLvwnkVIiPnbNvLXxkmbxCGtLjQ=
 		</data>
 		<key>Roboto-Bold.ttf</key>
 		<data>
@@ -91,77 +91,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			y9tcYVKZ0ByB7zhvrngsV58cSUeBQw8GGxd5i8AxTQs=
+			9B84wxEvON05pCDF7y3+d+pHnMrbBf8uXFjGNRijxzg=
 			</data>
 		</dict>
 		<key>Modules/SpinMyGP.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mdPtg0G9hsc8+/OutdqaDCLng35fn76HTQ02bn6Uv0w=
+			7Fo+ygcfhygh4IiYzBY5H2c7JsVTLUfU20RaAWpTvuI=
 			</data>
 		</dict>
 		<key>Modules/SpinMyGP.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y4E9H8JquPbdDNwD+qVC7F8RUrsX34A6pgEtYUYmrJw=
+			VuFBGHmA50OfRdOtLPcTujZ8QcoAKaM7R6OvzVGk1Jc=
 			</data>
 		</dict>
 		<key>Modules/SpinMyGP.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HD2tR+RXVfzXgDHy9/lTavyn5SpO1TGS1gaYPLeEQZo=
+			YTGtTUMocnJJw0iqWPxj/MzvoEDqjxkrLQXCWVBvgX8=
 			</data>
 		</dict>
 		<key>Modules/SpinMyGP.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y4E9H8JquPbdDNwD+qVC7F8RUrsX34A6pgEtYUYmrJw=
+			VuFBGHmA50OfRdOtLPcTujZ8QcoAKaM7R6OvzVGk1Jc=
 			</data>
 		</dict>
 		<key>Modules/SpinMyGP.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nPxWXF2iHx6vzjTUs5BwQwj7KaXM/ImkYDqAWZBSwCA=
+			th9lTL+PXoOrcC16V9HRoJQwysOgnpIG2LiBZhLC1iM=
 			</data>
 		</dict>
 		<key>Modules/SpinMyGP.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mdPtg0G9hsc8+/OutdqaDCLng35fn76HTQ02bn6Uv0w=
+			7Fo+ygcfhygh4IiYzBY5H2c7JsVTLUfU20RaAWpTvuI=
 			</data>
 		</dict>
 		<key>Modules/SpinMyGP.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZXR4/c8E7HZ5rcUG8zoVckXs8StvB/tzwtR1BmiGcgA=
+			rbwQQ40PUmH10KXjiGSLL6eGALjTG5qD6XDC5fixLTA=
 			</data>
 		</dict>
 		<key>Modules/SpinMyGP.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kie0MkJLWxQ5LOecgf4tSpvKRTrfMNRjlShstwt3ECk=
+			c3SbeeCxFLzyON9QgI3jJlHruBbqcZnSENAy7YGA080=
 			</data>
 		</dict>
 		<key>Modules/SpinMyGP.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZXR4/c8E7HZ5rcUG8zoVckXs8StvB/tzwtR1BmiGcgA=
+			rbwQQ40PUmH10KXjiGSLL6eGALjTG5qD6XDC5fixLTA=
 			</data>
 		</dict>
 		<key>Modules/SpinMyGP.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			r3b2LzvO7oaKUKTfg2OnJhK3pyZ0rQ5I7d83TfwLamI=
+			/efJ+bQayhKTlTsBtgFledMpzZsVq5jbrk5fC4o7cJg=
 			</data>
 		</dict>
 		<key>Roboto-Bold.ttf</key>

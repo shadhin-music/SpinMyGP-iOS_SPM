@@ -2533,7 +2533,7 @@
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Network\/APIEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 301,
+      "offset": 237,
       "length": 33,
       "value": "\"https:\/\/dev-gpspin.win2gain.com\""
     },
@@ -2547,63 +2547,63 @@
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Network\/SpinService.swift",
       "kind": "StringLiteral",
-      "offset": 2850,
+      "offset": 2786,
       "length": 9,
       "value": "\"#1354E0\""
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Network\/SpinService.swift",
       "kind": "StringLiteral",
-      "offset": 2883,
+      "offset": 2819,
       "length": 9,
       "value": "\"#080652\""
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Network\/SpinService.swift",
       "kind": "StringLiteral",
-      "offset": 2916,
+      "offset": 2852,
       "length": 9,
       "value": "\"#380480\""
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Network\/SpinService.swift",
       "kind": "StringLiteral",
-      "offset": 2949,
+      "offset": 2885,
       "length": 9,
       "value": "\"#A29BFE\""
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Network\/SpinService.swift",
       "kind": "StringLiteral",
-      "offset": 2982,
+      "offset": 2918,
       "length": 9,
       "value": "\"#55EFC4\""
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Network\/SpinService.swift",
       "kind": "StringLiteral",
-      "offset": 3015,
+      "offset": 2951,
       "length": 9,
       "value": "\"#FD79A8\""
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Network\/SpinService.swift",
       "kind": "StringLiteral",
-      "offset": 3048,
+      "offset": 2984,
       "length": 9,
       "value": "\"#FFEAA7\""
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Network\/SpinService.swift",
       "kind": "StringLiteral",
-      "offset": 3081,
+      "offset": 3017,
       "length": 9,
       "value": "\"#FF7675\""
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Network\/SpinService.swift",
       "kind": "StringLiteral",
-      "offset": 3114,
+      "offset": 3050,
       "length": 9,
       "value": "\"#0984E3\""
     },
