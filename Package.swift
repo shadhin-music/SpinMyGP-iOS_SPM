@@ -23,7 +23,7 @@ let package = Package(
                 from: "6.0.0"
             ),
             .package(
-                url: "https://github.com/airbnb/lottie-ios.git",
+                url: "https://github.com/airbnb/lottie-spm.git",
                 from: "4.6.1"
             )
         ],
@@ -34,14 +34,14 @@ let package = Package(
                 dependencies: [
                     "SpinMyGP",
                     .product(name: "SnapKit", package: "SnapKit"),
-                    .product(name: "Lottie", package: "lottie-ios")
+                    .product(name: "Lottie", package: "lottie-spm")
                 ],
                 path: "Sources/SpinMyGP"
             ),
             
                 .binaryTarget(
                     name: "SpinMyGP",
-                    url: "https://github.com/shadhin-music/SpinMyGP-iOS_SPM/releases/download/0.1.10/SpinMyGP.xcframework.zip",
+                    url: "https://github.com/shadhin-music/SpinMyGP-iOS_SPM/releases/download/0.1.11/SpinMyGP.xcframework.zip",
                     checksum: "eee3a36062289e0b3e9062f5f907087644858b77b0a42ffb9c0f6e9b0e29eff6"
                 )
             ]
