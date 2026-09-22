@@ -1,1 +1,1 @@
-@_exported import SpinMyGPBinary
+@_exported import SpinMyGP

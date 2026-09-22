@@ -41,7 +41,7 @@ let package = Package(
             
                 .binaryTarget(
                     name: "SpinMyGP",
-                    url: "https://github.com/shadhin-music/SpinMyGP-iOS_SPM/releases/download/0.1.9/SpinMyGP.xcframework.zip",
+                    url: "https://github.com/shadhin-music/SpinMyGP-iOS_SPM/releases/download/0.1.10/SpinMyGP.xcframework.zip",
                     checksum: "eee3a36062289e0b3e9062f5f907087644858b77b0a42ffb9c0f6e9b0e29eff6"
                 )
             ]
