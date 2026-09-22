@@ -48,6 +48,10 @@ public enum SpinMyGPEvent {
 }
 public protocol SpinMyGPDelegate : AnyObject {
   func spinMyGP(didReceive event: SpinMyGP.SpinMyGPEvent)
+  func spinMyGPTokenExpired()
+}
+extension SpinMyGP.SpinMyGPDelegate {
+  public func spinMyGPTokenExpired()
 }
 @_hasMissingDesignatedInitializers final public class SpinMyGPManager {
   public static let shared: SpinMyGP.SpinMyGPManager

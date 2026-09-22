@@ -1424,6 +1424,53 @@
             "protocolReq": true,
             "reqNewWitnessTableEntry": true,
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "spinMyGPTokenExpired",
+            "printedName": "spinMyGPTokenExpired()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8SpinMyGP0aB10GPDelegateP04spinB14GPTokenExpiredyyF",
+            "mangledName": "$s8SpinMyGP0aB10GPDelegateP04spinB14GPTokenExpiredyyF",
+            "moduleName": "SpinMyGP",
+            "genericSig": "<τ_0_0 where τ_0_0 : SpinMyGP.SpinMyGPDelegate>",
+            "sugared_genericSig": "<Self where Self : SpinMyGP.SpinMyGPDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "spinMyGPTokenExpired",
+            "printedName": "spinMyGPTokenExpired()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8SpinMyGP0aB10GPDelegatePAAE04spinB14GPTokenExpiredyyF",
+            "mangledName": "$s8SpinMyGP0aB10GPDelegatePAAE04spinB14GPTokenExpiredyyF",
+            "moduleName": "SpinMyGP",
+            "genericSig": "<τ_0_0 where τ_0_0 : SpinMyGP.SpinMyGPDelegate>",
+            "sugared_genericSig": "<Self where Self : SpinMyGP.SpinMyGPDelegate>",
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Protocol",
@@ -4696,105 +4743,112 @@
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Spin\/SpinWheelViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5190,
+      "offset": 5242,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Spin\/SpinWheelViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5303,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Spin\/SpinWheelViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5275,
+      "offset": 5430,
       "length": 3,
       "value": "160"
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Spin\/SpinWheelViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5310,
+      "offset": 5465,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Spin\/SpinWheelViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5549,
+      "offset": 5704,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Spin\/SpinWheelViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 18666,
+      "offset": 18821,
       "length": 2,
       "value": "23"
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Spin\/SpinWheelViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 18671,
+      "offset": 18826,
       "length": 4,
       "value": "3600"
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Spin\/SpinWheelViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 18678,
+      "offset": 18833,
       "length": 2,
       "value": "59"
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Spin\/SpinWheelViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 18683,
+      "offset": 18838,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Spin\/SpinWheelViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 18688,
+      "offset": 18843,
       "length": 2,
       "value": "59"
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Spin\/SpinWheelViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 20116,
+      "offset": 20271,
       "length": 2,
       "value": "23"
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Spin\/SpinWheelViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 20121,
+      "offset": 20276,
       "length": 4,
       "value": "3600"
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Spin\/SpinWheelViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 20128,
+      "offset": 20283,
       "length": 2,
       "value": "59"
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Spin\/SpinWheelViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 20133,
+      "offset": 20288,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Spin\/SpinWheelViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 20138,
+      "offset": 20293,
       "length": 2,
       "value": "59"
     },
     {
       "filePath": "\/Users\/mah\/Documents\/Win\/Spin_MyGP\/SpinMyGP-iOS\/spinmygp-ios\/SpinMyGP\/SpinMyGP\/Spin\/SpinWheelViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20608,
+      "offset": 20763,
       "length": 26,
       "value": "\"Spin Wheel - Full Screen\""
     },
